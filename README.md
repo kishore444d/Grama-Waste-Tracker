@@ -1,12 +1,13 @@
-# Grama Waste Tracker
+# Grama Waste Tracker - Admin App
 
-Smart Rural Waste Monitoring System developed using Android, Firebase, GPS, and Google Maps API.
+Smart Rural Waste Monitoring System using Android, Firebase, GPS, and Google Maps API.
 
 ## Features
-- Realtime GPS Tracking
-- Firebase Realtime Database
+- Realtime Vehicle Tracking
 - Google Maps Integration
+- Firebase Realtime Database
 - Nearby Notifications
+- Moving Truck Marker
 - Multiple Vehicle Support
 
 ## Technologies Used
@@ -14,12 +15,16 @@ Smart Rural Waste Monitoring System developed using Android, Firebase, GPS, and 
 - Android Studio
 - Firebase
 - Google Maps API
+- GPS Location Services
+
+## Workflow
+Tractor App → Firebase → Admin App → Live Tracking
 
 ## Project Description
-Grama Waste Tracker is designed to improve rural waste collection monitoring through realtime vehicle tracking and smart notifications.
+The Admin App monitors live waste collection vehicle locations in realtime using Firebase cloud synchronization and Google Maps integration.
 
 ## Developer
 Kishore D
-AI & Data Science Engineering
+Artificial Intelligence & Data Science Engineering
 East Point College of Engineering & Technology
 Mind Matrix (intern)
