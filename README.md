@@ -50,5 +50,15 @@ The Admin App fetches realtime location updates from Firebase and displays live 
 
 ---
 
+## Screenshots
+### Admin Map
+![Admin Map](screenshots/admin_map.png)
+
+### Live Tracking
+![Live Tracking](screenshots/live_tracking.png)
+
+### Notification
+![Notification](screenshots/notification.png)
+
 ## Developer
 Kishore D
